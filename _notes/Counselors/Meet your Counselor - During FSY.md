@@ -1,3 +1,5 @@
+This is on [[Day1]]
+
 Meet Your Counselor is one of the most important activities of the week because
 
 it is the first time you meet and interact with your youth. You will have approxi-
