@@ -5,17 +5,21 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to FSY!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[Counselors - Roles, Responsibilities, and Duties]]</span> to get started if you are a counselor.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Likewise for Assistant Coordinators: <span style="font-weight: bold">[[Assistant Coordinators - Roles, Responsibilities, and Duties]]</span>.
+</p>
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  And for Coordinators: <span style="font-weight: bold">[[Coordinators - Roles, Responsibilities, and Duties]]</span>.
+</p>
 
-<strong>Recently updated notes</strong>
+<strong>Recently updated notes:</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
