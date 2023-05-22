@@ -30,3 +30,7 @@ See here for more info: [[Goal Setting]]
 ### Head Count
 
 Please see here: [[Head Count]]
+
+### Quiet Time
+
+Please See here: [[Quiet Time]]
