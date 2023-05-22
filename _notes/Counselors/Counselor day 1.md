@@ -26,3 +26,7 @@ Please see here for more info:
 One counselor takes the lead on this one.
 
 See here for more info: [[Goal Setting]]
+
+### Head Count
+
+Please see here: [[Head Count]]
