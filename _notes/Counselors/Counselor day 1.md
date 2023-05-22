@@ -7,3 +7,8 @@ This schedule is specifically for Counselors and their responsibiilities on day 
 Check-in Instructions:
 
 [[Participant Check in]]
+
+### Business Meeting
+
+This is the final staff meeting before participants arrive. Be on time and pay atten-
+tion to any changes to the agenda or other announcements.
