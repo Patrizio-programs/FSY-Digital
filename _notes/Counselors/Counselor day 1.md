@@ -34,3 +34,11 @@ Please see here: [[Head Count]]
 ### Quiet Time
 
 Please See here: [[Quiet Time]]
+
+### Reflect and Review
+
+Please see here: [[Reflect and Review]]
+
+### Lights out
+
+Please see here: [[Lights out]]
